@@ -1,6 +1,12 @@
 <h1 align="center">Hello World! Eu sou André Seiji Goto!</h1>
 	<ul>
 		<li>
+			Desenvolvedor Frontend Sênior - Filoo Saúde
+		</li>
+		<li>
+			Main stack VueJs 3, Pinia e SASS
+		</li>
+		<li>
 			Estudante de Ciências da Computação - UniFaccamp (interrompido)
 		</li>
 		<li>
