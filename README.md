@@ -1,27 +1,19 @@
-<h1 align="center">Hello World! Eu sou André Seiji Goto!</h1>
-	<ul>
-		<li>
-			Desenvolvedor Frontend Sênior (VueJs 3) - Filoo Saúde
-		</li>
-		<li>
-			Estudante de Ciências da Computação - UniFaccamp (interrompido)
-		</li>
-		<li>
-			Formado em Ténico em Informática - ETEC Parque da Juventude (2010)
-		</li>
-		<li>
-			Formado em Ténico em Design Gráfico - ETEC Carlos de Campos (2008)
-		</li>
-		<li>
-			Estudando React, TypeScript, NextJS e UI Design
-		</li>
-	</ul>
+Hi 👋 My name is Andre Seiji Goto
+================================
 
-<br>
+Software Frontend Engineer | IT Consultant
+-----------------------------------
+
+* 🌍  I'm based in São Paulo, Brazil
+* ✉️  You can contact me at [andreseijigoto@gmail.com](mailto:andreseijigoto@gmail.com)
+
+<a href="https://www.github.com/andreseijigoto" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/andreseijigoto?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 <h2>💻Tech Stack</h2> 
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=js,vue,ts,react,html,css,sass,bootstrap,tailwind,vite"/> 
+	<img src="https://skillicons.dev/icons?i=js,vue,nuxt,ts,angular,react,ember,jest,html,css,sass,nest,express,nodejs,postman,bootstrap,tailwind,vite,php,laravel,wordpress,postgres,mysql,sqlite,firebase,git,docker,visualstudio,vscode,figma,xd,photoshop,ai"/> 
 </div>
 
 <h2>📊 Estatísticas </h2>
