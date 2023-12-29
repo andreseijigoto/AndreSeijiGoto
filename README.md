@@ -16,14 +16,14 @@ Software Frontend Engineer | IT Consultant
 	<img src="https://skillicons.dev/icons?i=js,vue,nuxt,ts,angular,react,ember,jest,html,css,sass,nest,express,nodejs,postman,bootstrap,tailwind,vite,php,laravel,wordpress,postgres,mysql,sqlite,firebase,git,docker,visualstudio,vscode,figma,xd,photoshop,ai"/> 
 </div>
 
-<h2>📊 Estatísticas </h2>
+<h2>📊 Estatistics </h2>
 <div align="center">
   <a href="https://github.com/andreseijigoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreseijigoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreseijigoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h2>📱 Redes sociais</h2>
+<h2>📱 Social Media</h2>
 <div align="center">
 	<a href="https://www.linkedin.com/in/andregoto/"> 
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
